@@ -1,4 +1,3 @@
-# My-Project
 # Retail Sales Data Analysis — UK Coffee Retail Dataset
 
 ## What this is
